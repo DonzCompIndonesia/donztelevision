@@ -1,0 +1,13 @@
+<video id="video" type="application/x-mpegURL" crossOrigin="anonymous" class="videoCentered" width="100%" height="380" muted controls autoplay 
+class="videoCentered"></video>
+<script>
+if(Hls.isSupported()) {
+var video = document.getElementById('video');
+var hls = new Hls();
+hls.loadSource('https://anym3u8player.com/youtube.php/id/681d39deb92e9.m3u8');
+hls.attachMedia(video);
+hls.on(Hls.Events.MANIFEST_PARSED,function() {
+  video.play();
+});
+}
+</script>
