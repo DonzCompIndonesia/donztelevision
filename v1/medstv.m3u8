@@ -19,12 +19,12 @@
   var video = document.getElementById('video');
   if(Hls.isSupported()) {
     var hls = new Hls();
-    hls.loadSource('https://anym3u8player.com/youtube.php/id/681d39deb92e9.m3u8');
+    hls.loadSource('https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746767421/ei/3TkdaJXNGe7Q6dsPvLje8A0/ip/86.107.43.88/id/wnX1Yy4qpkA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbpBUrirK3WhsPmFuhWwNYSmYSK2auKXp4BNxRwkMooF5xE4WinrG6I_QFdN9tfixB7K1fy_m9G/spc/wk1kZvQRuyLuzQZ-CwA1lfAsQEYkOJ9ZHIPJu1oVeUDmaTqtwHzlP0QWhqUjbRL-1VMUMzY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgRVbySi5t0k9vC2oYJxzoRfdzFV_Lh6Giom09B7FzZ6QCIQD_HcGjBBgt4yKp9ff0I8QaPhS6uGPnlWztpNiR0jsRaQ%3D%3D/file/index.m3u8');
     hls.attachMedia(video);
     video.play();
   }
   else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-    video.src = 'https://anym3u8player.com/youtube.php/id/681d39deb92e9.m3u8';
+    video.src = 'https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746767421/ei/3TkdaJXNGe7Q6dsPvLje8A0/ip/86.107.43.88/id/wnX1Yy4qpkA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbpBUrirK3WhsPmFuhWwNYSmYSK2auKXp4BNxRwkMooF5xE4WinrG6I_QFdN9tfixB7K1fy_m9G/spc/wk1kZvQRuyLuzQZ-CwA1lfAsQEYkOJ9ZHIPJu1oVeUDmaTqtwHzlP0QWhqUjbRL-1VMUMzY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgRVbySi5t0k9vC2oYJxzoRfdzFV_Lh6Giom09B7FzZ6QCIQD_HcGjBBgt4yKp9ff0I8QaPhS6uGPnlWztpNiR0jsRaQ%3D%3D/file/index.m3u8';
     video.addEventListener('loadedmetadata',function() {
       video.play();
     });
