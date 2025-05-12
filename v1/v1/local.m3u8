@@ -1,0 +1,104 @@
+#EXTM3U
+### LOCAL ###
+
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="LOCAL",RCTI
+http://iptvtree.net:8080/outputofflinechecker/pass/157591
+
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="LOCAL",MNC TV
+http://iptvtree.net:8080/outputofflinechecker/pass/165054
+
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="LOCAL",GTV
+http://iptvtree.net:8080/outputofflinechecker/pass/157578
+
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="LOCAL",Trans 7
+http://iptvtree.net:8080/outputofflinechecker/pass/162502
+
+#EXTINF:-1 tvg-id="" tvg-name="Trans TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="LOCAL",Trans TV
+http://iptvtree.net:8080/outputofflinechecker/pass/162503
+
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="LOCAL",ANTV
+http://iptvtree.net:8080/outputofflinechecker/pass/165072
+
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="LOCAL",Kompas TV
+http://iptvtree.net:8080/outputofflinechecker/pass/165060
+
+#EXTINF:-1 tvg-id="" tvg-name="Net" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="LOCAL",Net
+http://iptvtree.net:8080/outputofflinechecker/pass/80292
+
+#EXTINF:-1 tvg-id="" tvg-name="INews" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="LOCAL",INews
+http://iptvtree.net:8080/outputofflinechecker/pass/157579
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="LOCAL",TVRI
+http://iptvtree.net:8080/outputofflinechecker/pass/162504
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/65e84aeb0473183e918e3395efa3d64f.png" group-title="LOCAL",TVRI 4
+http://iptvtree.net:8080/outputofflinechecker/pass/287433
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Gorontalo" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f0192fca1abdd2175b5aff860adfd63e.png" group-title="LOCAL",TVRI Gorontalo
+http://iptvtree.net:8080/outputofflinechecker/pass/166698
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Jambi" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/c5c7106cdb7be8d41387d8696774d07b.png" group-title="LOCAL",TVRI Jambi
+http://iptvtree.net:8080/outputofflinechecker/pass/166692
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Jawa Barat" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/d07af261f0a1c95e9af8b5c8da7493cf.png" group-title="LOCAL",TVRI Jawa Barat
+http://iptvtree.net:8080/outputofflinechecker/pass/166688
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Barat" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/6876b1ded655d8d32a4b3a0b79cf0e72.png" group-title="LOCAL",TVRI Kalimantan Barat
+http://iptvtree.net:8080/outputofflinechecker/pass/166701
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Tengah" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f9a14843b0ad55e50f9141733710994e.png" group-title="LOCAL",TVRI Kalimantan Tengah
+http://iptvtree.net:8080/outputofflinechecker/pass/166702
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="LOCAL",TVRI Sport
+http://iptvtree.net:8080/outputofflinechecker/pass/166686
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Selatan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c13b7324e131c35d64fc7007c0b153ce.png" group-title="LOCAL",TVRI Sulawesi Selatan
+http://iptvtree.net:8080/outputofflinechecker/pass/166699
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI World" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ba768bd70edc3098433bdfaeacc616e6.jfif" group-title="LOCAL",TVRI World
+http://iptvtree.net:8080/outputofflinechecker/pass/295291
+
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://i.ibb.co/mGkRqTd/rtv.jpg" group-title="LOCAL",RTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel%2841869351-4a9c-4e57-b54b-8cf5dfc919e1%29/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="LOCAL",JTV
+http://iptvtree.net:8080/outputofflinechecker/pass/165091
+
+#EXTINF:-1 tvg-id="" tvg-name="MNC News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="LOCAL",MNC News
+http://iptvtree.net:8080/outputofflinechecker/pass/165058
+
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="LOCAL",Berita Satu
+http://iptvtree.net:8080/outputofflinechecker/pass/162513
+
+#EXTINF:-1 tvg-id="" tvg-name="RRI Net" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3fd36ee56651002d0195cd998d2d0f5b.png" group-title="LOCAL",RRI Net
+http://iptvtree.net:8080/outputofflinechecker/pass/266816
+
+#EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="LOCAL",Bali TV
+http://iptvtree.net:8080/outputofflinechecker/pass/197962
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Ai TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/346b56a716927612398ba160e78effd0.png" group-title="LOCAL",Da Ai TV
+http://210.210.155.35/session/7627146c-d57e-11eb-a769-b82a72d63267/qwr9ew/s/s13/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Jak TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="LOCAL",Jak TV
+http://iptvtree.net:8080/outputofflinechecker/pass/157601
+
+#EXTINF:-1 tvg-id="" tvg-name="Nusantara TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="LOCAL",Nusantara TV
+http://iptvtree.net:8080/outputofflinechecker/pass/166410
+
+#EXTINF:-1 tvg-id="" tvg-name="Antara" tvg-logo="" group-title="LOCAL",Antara
+http://iptvtree.net:8080/outputofflinechecker/pass/16641000
+
+#EXTINF:-1 tvg-id="" tvg-name="Indonesia TV" tvg-logo="" group-title="LOCAL",Indonesia TV
+https://list.iptvcat.com/my_list/s/b29e372cffb9ddb595f1f98f87c039de.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="LOCAL",SCTV
+http://iptvtree.net:8080/outputofflinechecker/pass/162141
+
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LOCAL",Indosiar
+http://iptvtree.net:8080/outputofflinechecker/pass/162138
+
+#EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="LOCAL",Moji
+http://iptvtree.net:8080/outputofflinechecker/pass/298550
+
+#EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="LOCAL",Insert
+http://iptvtree.net:8080/outputofflinechecker/pass/264766
