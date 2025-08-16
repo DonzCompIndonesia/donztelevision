@@ -1,10 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2800000
-http://gftp.pro:80
-#http://185.177.125.182:2095
-#http://178.162.193.239:8080 
-#http://clubtv.pro-ott.com:25443
-#http://vipaccessgf.info:80
-#http://hmtvhd.life:80
-#http://minerdkatu.xyz:80
+http://185.177.125.182:2095
