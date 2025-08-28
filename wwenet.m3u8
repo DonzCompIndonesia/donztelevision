@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=960x540
 
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/181444.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153736.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/181443.m3u8
-http://iptv12k.com:35461/live/654321/123456/5698.m3u8
-http://muka03.wanicelife.com:8880/live/29us031901/adsf3rdsdc/1698.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
